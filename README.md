@@ -108,7 +108,7 @@ O projeto segue uma arquitetura em camadas para facilitar a manutenção e organ
 ### 🔹 Executando o Projeto
 
 2. **Passos para execução**:
-   - Abra o arquivo `CRUDAltcel.sln` no Visual Studio.
+   - Abra o arquivo `3C1GUSTAVO15.sln` no Visual Studio.
    - Compile o projeto (`Ctrl + Shift + B` ou "Build > Build Solution").
    - Execute o sistema (`F5` ou "Start Debugging").
 
