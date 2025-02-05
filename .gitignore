@@ -1,0 +1,29 @@
+# Ignorar arquivos de compilação
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Arquivos de configuração do usuário do Visual Studio
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Outros arquivos e pastas
+packages/
+*.nupkg
+*.[Cc]ache
+*.[Ll]og
+*.[Dd]ll
+*.[Ee]xe
+*.[Pp]db
+*.[Cc]sproj.user
+*.[Cc]sproj.*.user
+*.[Cc]sproj.*.tlog
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Pasta .vs, que contém dados específicos do Visual Studio
+.vs/
